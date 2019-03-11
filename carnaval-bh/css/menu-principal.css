@@ -1,0 +1,20 @@
+/********************
+Componente menu-principal
+********************/
+.menu-principal {
+	text-align:center;
+}
+
+.menu-principal > .lista {
+
+}
+
+.menu-principal > .lista > .item {
+	display:inline;
+	padding-left:10px;
+	padding-right:10px;
+	font-family:Arial Black;
+	color:orange;
+}
+
+.menu-principal > .lista > .item > a {

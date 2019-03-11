@@ -1,0 +1,15 @@
+/********************
+Componente menu-principal
+********************/
+
+.destaque-artigo .imagem {
+	width:50%;
+    max-height:400px;
+	text-align: center;
+}
+
+.imagem {
+	width:50%;
+    max-height:400px;
+	padding-left: 25%;
+}

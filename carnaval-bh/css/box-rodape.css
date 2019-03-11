@@ -1,0 +1,16 @@
+/********************
+Componente box-rodape
+********************/
+.box-rodape {
+    display: inline-block;
+}
+
+.box-rodape > .conteudo {
+	 background-color: orange;
+}
+
+.box-rodape > .titulo {
+	 background-color: orange;
+	 font-family: Arial Black;
+	 font-size: 16px;
+}
